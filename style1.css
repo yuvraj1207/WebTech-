@@ -1,0 +1,19 @@
+label{
+    text-align: center;
+    font-weight: 100px; 
+    padding-right: 30px;
+    color: bisque;
+   } 
+
+   body {
+    text-align: center;
+    background-color:rgb(168, 218, 213); 
+    background-image: url("assets/background-img.jpg");
+    font-family: 'Poppins', sans-serif;
+    font-size: x-large;
+    color:black;
+   }
+
+   input{
+    columns: white;
+   }
